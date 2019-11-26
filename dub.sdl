@@ -1,0 +1,6 @@
+name "vibe_opassign"
+description "A minimal D application."
+authors "dao"
+copyright "Copyright © 2019, dao"
+license "proprietary"
+dependency "vibe-d" version="~>0.8.6"
